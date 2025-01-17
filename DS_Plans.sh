@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-DownloadUrl="https://cdn.empire.death_start_blueprints_v2.dmg"
+DownloadUrl="https://cdn.empire.death_star_blueprints_v2.dmg"
 
 
 
