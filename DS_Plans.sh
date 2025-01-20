@@ -92,7 +92,7 @@ do
         echo "Copied $DMGAppPath to /Users/$user/Applications"
 
         
-        ln -s /Users/$user/Applications/JumpCloud\ Password\ Manager.app /Users/$user/Desktop/Death\ Star\ Plans.app
+        ln -s /Users/$user/Desktop/Death\ Star\ Plans.app
     fi
 done
 
