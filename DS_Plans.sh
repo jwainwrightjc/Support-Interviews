@@ -71,9 +71,9 @@ do
         if [[ ! -d /Users/$user/Applications ]]; then
             mkdir /Users/$user/Applications
         fi
-        if [[ -d /Users/$user/Applications/JumpCloud\ Password\ Manager.app ]]; then
+        if [[ -d /Users/$user/Applications/Death\ Star\ Plans.app ]]; then
             
-            rm -rf /Users/$user/Applications/JumpCloud\ Password\ Manager.app
+            rm -rf /Users/$user/Applications/Death\ Star\ Plans.app
         fi
 
         
